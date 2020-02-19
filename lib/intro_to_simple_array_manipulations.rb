@@ -28,7 +28,7 @@ end
 
 def using_insert(array, element)
   
-  array.insert(element)
+  array[4].insert(element)
 end
 
 def using_uniq

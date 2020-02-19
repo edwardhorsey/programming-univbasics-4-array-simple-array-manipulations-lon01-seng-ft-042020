@@ -39,8 +39,8 @@ def using_flatten
 end
   
 def using_delete(array, string)
-  
-  return array
+  return array.delete(string) 
+end
   
   
   
